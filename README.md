@@ -1,4 +1,5 @@
 #CitriScan 🌿
+
 An AI-powered web application for the early detection of citrus leaf diseases using deep learning, promoting sustainable agricultural practices.
 
 Overview
